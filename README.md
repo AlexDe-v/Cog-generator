@@ -1,4 +1,4 @@
-https://github.com/AlexDe-v/Cog-generator/assets/128286215/2920bb05-6772-48e7-a8ae-1793dfafdfce
+https://github.com/AlexDe-v/Cog-generator/assets/128286215/bfb3aad5-1a28-459a-8a53-f1005353ba6a
 
 # Cog-generator
 This console utility allows the user to create a Pycord/d.py cog in a terminal.
